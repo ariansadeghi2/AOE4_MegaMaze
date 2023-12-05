@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Mega Maze/-->
+	<DataObject Name="Mega Maze" Type="Mod" Id="12349334609317983322" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">6800152804159892855</DataValue>
+			<!--Mega Maze/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="6800152804159892855" OwnerId="12349334609317983322">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="1488843398"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1914369624"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2719915472"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1185435036"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">1995596995878097760</DataValue>
+			<!--Mega Maze/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="1995596995878097760" OwnerId="12349334609317983322">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="1488843398"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1914369624"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2719915472"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1185435036"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+

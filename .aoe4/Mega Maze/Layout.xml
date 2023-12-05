@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LayoutRoot>
+  <RootPanel Orientation="Horizontal">
+    <LayoutAnchorablePaneGroup Orientation="Horizontal" DockWidth="298" FloatingWidth="300" FloatingHeight="800" FloatingLeft="200" FloatingTop="200">
+      <LayoutAnchorablePane DockHeight="200" FloatingWidth="300" FloatingHeight="800" FloatingLeft="200" FloatingTop="200">
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Asset Explorer" IsSelected="True" ContentId="EssenceEditor.AssetExplorer" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="12/04/2023 22:01:30" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
+      </LayoutAnchorablePane>
+    </LayoutAnchorablePaneGroup>
+    <LayoutPanel Orientation="Vertical">
+      <LayoutDocumentPaneGroup Orientation="Horizontal">
+        <LayoutDocumentPane Id="7f400eb0-da02-4bd3-a20a-d62897502d85" DockWidth="1.04883227176221*">
+          <LayoutDocument Title="Render" ContentId="EssenceEditor.Render" LastActivationTimeStamp="12/02/2023 14:27:39" />
+          <LayoutDocument Title="Mega Maze.lua" IsSelected="True" IsLastFocusedDocument="True" ContentId="FileName|Lua|assets\scar\terrainlayout\Mega Maze.lua" ToolTip="C:\Users\Uncopia\Documents\Mega Maze\assets\scar\terrainlayout\Mega Maze.lua" LastActivationTimeStamp="12/04/2023 21:52:40" />
+          <LayoutDocument Title="mod.png" ContentId="FileName|Image|assets\mod.png" ToolTip="C:\Users\Uncopia\Documents\Mega Maze\assets\mod.png" LastActivationTimeStamp="12/02/2023 17:35:09" />
+        </LayoutDocumentPane>
+      </LayoutDocumentPaneGroup>
+      <LayoutAnchorablePane Id="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" Name="anchorablesPane" DockHeight="277">
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Output" ContentId="Output" LastActivationTimeStamp="12/02/2023 17:12:49" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Error List" ContentId="ErrorList" LastActivationTimeStamp="12/02/2023 17:12:49" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Object Browser" ContentId="ScenarioEditor.ObjectBrowser" LastActivationTimeStamp="12/02/2023 17:13:10" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Palettes" ContentId="ScenarioEditor.Palettes" LastActivationTimeStamp="12/02/2023 17:13:08" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Group List" ContentId="ScenarioEditor.GroupBlueprint" LastActivationTimeStamp="12/02/2023 17:13:11" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Minimap" IsSelected="True" ContentId="ScenarioEditor.Minimap" LastActivationTimeStamp="12/02/2023 17:13:14" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Console" ContentId="Console" LastActivationTimeStamp="12/02/2023 17:12:47" />
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Find Results 1" ContentId="FindResults" LastActivationTimeStamp="12/02/2023 17:12:50" />
+      </LayoutAnchorablePane>
+    </LayoutPanel>
+    <LayoutAnchorablePaneGroup Orientation="Vertical" DockWidth="360" DockHeight="200">
+      <LayoutAnchorablePane Id="233cd9a2-797e-443d-b1e3-73f8d7f60c97" DockWidth="360" FloatingWidth="300" FloatingHeight="800" FloatingLeft="200" FloatingTop="200">
+        <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Properties" IsSelected="True" ContentId="EssenceEditor.Properties" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="11/29/2023 20:23:36" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
+      </LayoutAnchorablePane>
+      <LayoutAnchorablePane Id="78c06263-eb86-40c1-8abf-6d89a3781df0" FloatingWidth="300" FloatingHeight="250" FloatingLeft="200" FloatingTop="200" />
+      <LayoutAnchorablePaneGroup Orientation="Horizontal" DockHeight="0.25*" FloatingWidth="300" FloatingHeight="200" FloatingLeft="200" FloatingTop="200">
+        <LayoutAnchorablePane DockHeight="100" FloatingWidth="300" FloatingHeight="100" FloatingLeft="200" FloatingTop="200">
+          <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Playback" IsSelected="True" ContentId="EssenceEditor.Playback" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="100" LastActivationTimeStamp="11/30/2023 20:49:26" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="1" />
+        </LayoutAnchorablePane>
+      </LayoutAnchorablePaneGroup>
+    </LayoutAnchorablePaneGroup>
+  </RootPanel>
+  <TopSide />
+  <RightSide />
+  <LeftSide />
+  <BottomSide />
+  <FloatingWindows />
+  <Hidden>
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Transformation" IsSelected="True" ContentId="ScenarioEditor.Transformation" FloatingLeft="200" FloatingTop="200" FloatingWidth="250" FloatingHeight="300" LastActivationTimeStamp="12/04/2023 21:52:09" PreviousContainerId="78c06263-eb86-40c1-8abf-6d89a3781df0" PreviousContainerIndex="0" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Locals" IsSelected="True" ContentId="Locals" LastActivationTimeStamp="12/04/2023 21:52:09" PreviousContainerId="1b84d0aa-3fd1-4781-909d-fa3e4b760d6d" PreviousContainerIndex="3" />
+    <LayoutAnchorable AutoHideMinWidth="100" AutoHideMinHeight="100" Title="Painter" IsSelected="True" ContentId="ScenarioEditor.Painter" FloatingLeft="200" FloatingTop="200" FloatingWidth="300" FloatingHeight="800" LastActivationTimeStamp="12/04/2023 21:52:09" PreviousContainerId="233cd9a2-797e-443d-b1e3-73f8d7f60c97" PreviousContainerIndex="1" />
+  </Hidden>
+</LayoutRoot>
